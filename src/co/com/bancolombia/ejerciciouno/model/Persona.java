@@ -1,11 +1,11 @@
 package co.com.bancolombia.ejerciciouno.model;
 
 public class Persona {
-    private String estadoCivil;
-    private int cantidadHijos;
-    private int cantidadHermanos;
-    private String nombreDelPadre;
-    private String nombreDeLaMadre;
+    protected String estadoCivil;
+    protected int cantidadHijos;
+    protected int cantidadHermanos;
+    protected String nombreDelPadre;
+    protected String nombreDeLaMadre;
 
     public String getEstadoCivil() {
         return estadoCivil;
