@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="376c4c98-6283-4dd0-981a-5c05d42b9b8c" name="Default Changelist" comment="">
+    <list default="true" id="bf4df39f-28d9-48de-a5e8-c47cd27dc8e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b36d16530ad663b3b3df6c7d03c58c3eb504afb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39e9f0e1da753204ccbd776eedd36c156d39e5ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/478d3438be35d7a8af75510a63dfef61639a0a9c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc646abcb9b9376d80e313cfb2a40d4f512b387a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eabe798271c4fed068ca151c85e457a1f27fc09c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.com.bancolombia.refactoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/control/Control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Compra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/co.com.bancolombia.refactoring/co/com/bancolombia/ejerciciouno/model/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/control/Control.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Compra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/com/bancolombia/ejerciciouno/model/Producto.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,41 +49,60 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="24KPRTNKlqqgp9N26tbXR0fANlK" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2sDI2SeAJSAZdl9s9pOE3PDdt8G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="co.com.bancolombia.refactoring.original" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Best Programming Practices [:co.com.bancolombia.control.Control.main()].executor": "Run",
+    "Gradle.Best-Programming-Practices [:co.com.bancolombia.control.Control.main()].executor": "Run",
+    "Gradle.untitled [:co.com.bancolombia.control.Control.main()].executor": "Run",
+    "Gradle.untitled [:com.choucair.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bumanag/Documents/Best-Programming-Practices",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Control">
     <configuration name="Control" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.ejerciciouno.control.Control" />
-      <module name="co.com.bancolombia.refactoring" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.control.Control" />
+      <module name="untitled.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.bancolombia.ejerciciouno.control.*" />
+          <option name="PATTERN" value="co.com.bancolombia.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.choucair.Main" />
+      <module name="untitled.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.choucair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.com.bancolombia.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,35 +112,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.co.com.bancolombia.Main" />
         <item itemvalue="Application.Control" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="376c4c98-6283-4dd0-981a-5c05d42b9b8c" name="Default Changelist" comment="" />
-      <created>1643376296653</created>
+      <changelist id="bf4df39f-28d9-48de-a5e8-c47cd27dc8e9" name="Changes" comment="" />
+      <created>1737983512736</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643376296653</updated>
+      <updated>1737983512736</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
